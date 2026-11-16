@@ -1,0 +1,5 @@
+/tmp:
+snap-private-tmp
+systemd-private-b772b008b12e48f7a2728afceb6a0943-systemd-logind.service-GpO5tQ
+systemd-private-b772b008b12e48f7a2728afceb6a0943-systemd-resolved.service-n0O4Te
+systemd-private-b772b008b12e48f7a2728afceb6a0943-systemd-timesyncd.service-nGdqdd
